@@ -10,7 +10,7 @@ Python 在诞生之初，因为其功能不好，运转功率低，不支持多�
 
 至此，Python 已经成为互联网开发的焦点。在「Top 10 的编程语言走势图」可以看到，Python 已经跃居第三位，而且在 2017 年还成为了最受欢迎的语言。
 
-![](http://twowaterimage.oss-cn-beijing.aliyuncs.com/2019-07-06-084240.png)
+![](http://twowaterimage.oss-cn-beijing.aliyuncs.com/2019-07-06-084240.png) 
 
 ### Python 开发薪资高
 
@@ -20,6 +20,7 @@ Python 开发人员是收入最高的开发人员之一，特别是在数据科�
 
 ![](http://twowaterimage.oss-cn-beijing.aliyuncs.com/2019-07-06-090549.jpg)
 
+此图应该已过时~
 ### Python 容易入门且功能强大
 
 如果你是一名初学者，学习 Python 就是你最好的选择，因为它容易学，功能强大，很容易就能构建 Web 应用，非常适合初学者作为入门的开发语言。
